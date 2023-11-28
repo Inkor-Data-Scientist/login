@@ -49,5 +49,5 @@ else:
     for usu in usuarios:
         print("Usu: ", usu[0], "Nom: ", usu[1], "PW: ", usu[2])
     
-
+print("Hasta luego Mari Carmen!!")
         
